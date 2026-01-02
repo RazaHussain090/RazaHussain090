@@ -1,7 +1,7 @@
 # こんにちは! I'm Raza Hussain 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFuM3k2Z3B4aW5qZGJ5bW5xZGJ5bW5xZGJ5bW5xZGJ5bW5x/giphy.gif" width="200" alt="Anime Welcome"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="Anime Developer Coding"/>
 </div>
 
 ## 🚀 Full-Stack Developer | Game Dev | Creative Coder
