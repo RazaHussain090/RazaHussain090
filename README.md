@@ -42,12 +42,15 @@ I'm a passionate developer who bridges the worlds of code, gaming, anime, and di
 ⚡ Balancing creative passions with productivity
 🛠️ Web development best practices & modern tooling
 
+<!--
 ## 📫 Let's Connect!
 
 💼 **LinkedIn:** [Your LinkedIn Profile]
 🐦 **Twitter:** [@yourhandle]
 🎮 **Discord:** [Your Discord Server]
+🎮 **Steam:** [Your Steam Profile]
 📺 **AniList:** [Your anime profile]
+-->
 
 ## ⚡ Fun Facts
 
