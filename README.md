@@ -6,7 +6,7 @@
 
 ## 🎌 About Me (自己紹介)
 
-I'm a passionate developer, gamer, anime enthusiast, and creative artist who lives at the intersection of code, creativity, music, and epic adventures! 🎮💻🌸🎨🎵 By day, I'm crafting digital solutions and exploring cutting-edge technologies. By night, you'll find me either grinding through challenging games, analyzing character development in anime series, creating digital art, composing music, or building my own gaming projects.
+I'm a dedicated developer, gamer, anime enthusiast, and creative artist who lives at the intersection of code, creativity, music, and epic adventures! 🎮💻🌸🎨🎵 By day, I'm crafting digital solutions and exploring cutting-edge technologies. By night, you'll find me either grinding through challenging games, analyzing character development in anime series, creating digital art, composing music, or building my own gaming projects.
 
 I believe programming is like composing a symphony - every function has a purpose, every bug is a plot twist, and every deployment is a satisfying crescendo! Gaming has taught me strategic thinking and perseverance, anime inspires my creativity and storytelling, while music and art help me express the emotions that code alone cannot capture. My ultimate goal? To create software, games, art, and music that deliver the same thrill and emotional impact as my favorite anime series and gaming experiences.
 
